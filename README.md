@@ -16,7 +16,7 @@ Website moderno para a empresa **Douglinha Gesso** — serviços profissionais d
 1. Abra `index.html` no navegador
 2. Para gerenciar fotos: clique ⚙️ → senha `doug2026`
 3. Arraste ou selecione fotos → "Publicar Fotos"
-
+TESTE
 ## 📂 Estrutura
 
 ```
